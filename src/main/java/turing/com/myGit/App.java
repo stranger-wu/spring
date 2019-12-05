@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         //Let's not forget from wherece we came
-        //记住,饮水要思源
+        System.out.println("Pikachu");
     }
 }
